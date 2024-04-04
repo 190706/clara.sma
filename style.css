@@ -87,7 +87,7 @@ header nav ul li:hover{
 	padding-top: 5px;
 }
 #home {
-	background-image: url("bilder/backround.jpg");
+	background-image: url("backround.jpg");
 	background-attachment: fixed;
 	/*Erzeugt den Parallax-Effekt */
 	background-position: center;
